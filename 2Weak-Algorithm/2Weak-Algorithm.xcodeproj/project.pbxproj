@@ -12,6 +12,8 @@
 		5BA17170273E293E007D1F24 /* p68644.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA1716F273E293E007D1F24 /* p68644.swift */; };
 		5BA17172273E2959007D1F24 /* p12928.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA17171273E2959007D1F24 /* p12928.swift */; };
 		5BA17174273E2979007D1F24 /* p64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA17173273E2979007D1F24 /* p64061.swift */; };
+		5BA17176273E40B3007D1F24 /* p12901.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA17175273E40B3007D1F24 /* p12901.swift */; };
+		5BA17178273E40CC007D1F24 /* p42840.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA17177273E40CC007D1F24 /* p42840.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +35,8 @@
 		5BA1716F273E293E007D1F24 /* p68644.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p68644.swift; sourceTree = "<group>"; };
 		5BA17171273E2959007D1F24 /* p12928.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p12928.swift; sourceTree = "<group>"; };
 		5BA17173273E2979007D1F24 /* p64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p64061.swift; sourceTree = "<group>"; };
+		5BA17175273E40B3007D1F24 /* p12901.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p12901.swift; sourceTree = "<group>"; };
+		5BA17177273E40CC007D1F24 /* p42840.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p42840.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,9 +70,11 @@
 			isa = PBXGroup;
 			children = (
 				5BA17166273E070C007D1F24 /* main.swift */,
-				5BA17173273E2979007D1F24 /* p64061.swift */,
 				5BA17171273E2959007D1F24 /* p12928.swift */,
 				5BA1716F273E293E007D1F24 /* p68644.swift */,
+				5BA17177273E40CC007D1F24 /* p42840.swift */,
+				5BA17175273E40B3007D1F24 /* p12901.swift */,
+				5BA17173273E2979007D1F24 /* p64061.swift */,
 				5BA1716D273E0919007D1F24 /* p12910.swift */,
 			);
 			path = "2Weak-Algorithm";
@@ -134,7 +140,9 @@
 			files = (
 				5BA17170273E293E007D1F24 /* p68644.swift in Sources */,
 				5BA17172273E2959007D1F24 /* p12928.swift in Sources */,
+				5BA17176273E40B3007D1F24 /* p12901.swift in Sources */,
 				5BA1716E273E0919007D1F24 /* p12910.swift in Sources */,
+				5BA17178273E40CC007D1F24 /* p42840.swift in Sources */,
 				5BA17167273E070C007D1F24 /* main.swift in Sources */,
 				5BA17174273E2979007D1F24 /* p64061.swift in Sources */,
 			);

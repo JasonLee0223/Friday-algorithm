@@ -14,7 +14,7 @@ func solution(_ n: Int) -> Int {
 }
 */
 
-func solution12928_V2(_ n:Int) -> Int {
+func solution(_ n:Int) -> Int {
     var sum: Int = 0
     if n != 0 {
         for res in 1...n {
